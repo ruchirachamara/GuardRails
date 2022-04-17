@@ -1,0 +1,4 @@
+.MuiListItem-root {
+    flex-direction: column;
+}
+ul { padding-bottom: 0 !important; }
